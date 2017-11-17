@@ -8,5 +8,4 @@ Content
 ---------
 Of course, my decisions do not pretend to be the only true solution. In this paper, I wanted to show that I have the necessary skills and knowledge.
 
-+ [Guided project: Explore U.S. births] ()
-+ qwe
++ [Guided project: Explore U.S. births](https://github.com/IsFilimonov/DataquestProjects/blob/master/US_births/Explore%20U.S.%20births.ipynb)
