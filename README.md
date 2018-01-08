@@ -14,3 +14,4 @@ Of course, my decisions do not pretend to be the only true solution. In this pap
 + [Challenge: Employment data by major categories](https://github.com/IsFilimonov/DataquestProjects/blob/master/Employment%20rates/Employment%20rates.ipynb)
 + [Guided Project: Analyzing Thanksgiving Dinner](https://github.com/IsFilimonov/DataquestProjects/blob/master/Analyzing%20Thanksgiving%20Dinner/Thanksgiving.ipynb)
 + [Guided Project: Visualizing Earnings Based On College Majors](https://github.com/IsFilimonov/DataquestProjects/blob/master/Earnings%20visualizing%20/Plotting.ipynb)
++ [Guided Project: Visualizing The Gender Gap In College Degrees](https://github.com/IsFilimonov/DataquestProjects/blob/master/Gap%20visualizing/Gender_defrees.ipynb)
